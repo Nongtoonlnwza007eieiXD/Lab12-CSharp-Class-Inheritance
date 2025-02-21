@@ -1,0 +1,15 @@
+D:\lab12_oop\Lab12-CSharp-Class-Inheritance\Lab12_Ex03\bin\Debug\net9.0\Lab12_Ex03.exe
+D:\lab12_oop\Lab12-CSharp-Class-Inheritance\Lab12_Ex03\bin\Debug\net9.0\Lab12_Ex03.deps.json
+D:\lab12_oop\Lab12-CSharp-Class-Inheritance\Lab12_Ex03\bin\Debug\net9.0\Lab12_Ex03.runtimeconfig.json
+D:\lab12_oop\Lab12-CSharp-Class-Inheritance\Lab12_Ex03\bin\Debug\net9.0\Lab12_Ex03.dll
+D:\lab12_oop\Lab12-CSharp-Class-Inheritance\Lab12_Ex03\bin\Debug\net9.0\Lab12_Ex03.pdb
+D:\lab12_oop\Lab12-CSharp-Class-Inheritance\Lab12_Ex03\obj\Debug\net9.0\Lab12_Ex03.GeneratedMSBuildEditorConfig.editorconfig
+D:\lab12_oop\Lab12-CSharp-Class-Inheritance\Lab12_Ex03\obj\Debug\net9.0\Lab12_Ex03.AssemblyInfoInputs.cache
+D:\lab12_oop\Lab12-CSharp-Class-Inheritance\Lab12_Ex03\obj\Debug\net9.0\Lab12_Ex03.AssemblyInfo.cs
+D:\lab12_oop\Lab12-CSharp-Class-Inheritance\Lab12_Ex03\obj\Debug\net9.0\Lab12_Ex03.csproj.CoreCompileInputs.cache
+D:\lab12_oop\Lab12-CSharp-Class-Inheritance\Lab12_Ex03\obj\Debug\net9.0\Lab12_Ex03.sourcelink.json
+D:\lab12_oop\Lab12-CSharp-Class-Inheritance\Lab12_Ex03\obj\Debug\net9.0\Lab12_Ex03.dll
+D:\lab12_oop\Lab12-CSharp-Class-Inheritance\Lab12_Ex03\obj\Debug\net9.0\refint\Lab12_Ex03.dll
+D:\lab12_oop\Lab12-CSharp-Class-Inheritance\Lab12_Ex03\obj\Debug\net9.0\Lab12_Ex03.pdb
+D:\lab12_oop\Lab12-CSharp-Class-Inheritance\Lab12_Ex03\obj\Debug\net9.0\Lab12_Ex03.genruntimeconfig.cache
+D:\lab12_oop\Lab12-CSharp-Class-Inheritance\Lab12_Ex03\obj\Debug\net9.0\ref\Lab12_Ex03.dll
